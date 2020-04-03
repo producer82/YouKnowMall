@@ -1,2 +1,2 @@
 # YouKnowMall
- 학습용 쇼핑몰, '아시는구나'
+ Basic template of e-commerce site for studying front-end and back-end
